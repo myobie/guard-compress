@@ -1,0 +1,2 @@
+guard :compress, input: "js/site.js"
+guard :compress, input: "css/site.css"
